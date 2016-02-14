@@ -2,6 +2,6 @@ TochkaVhoda(argumenti)
 {
 	sout("Helo Git!");
 	sout("bye!");
-	book.stuk();
+	book.stcvbnuk();
 	
 }
