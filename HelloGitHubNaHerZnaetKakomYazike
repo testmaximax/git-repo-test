@@ -1,0 +1,4 @@
+TochkaVhoda(argumenti)
+{
+	sout("Helo Git!");
+}
