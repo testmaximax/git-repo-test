@@ -2,7 +2,11 @@ fdgdfTochkaVhoda(argumenti)
 {
 	sout("Helo Git!");
 	sout("bye!");
+<<<<<<< HEAD
 hhjlkbl
 h;lu;
+=======
+	book.stcvbnuk();
+>>>>>>> master
 	
 }
