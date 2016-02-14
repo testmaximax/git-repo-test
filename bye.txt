@@ -1,2 +1,4 @@
-bye();
-//tfdgsddfgdgfdgfdg
+main()
+{
+	doodByeGit();
+}
