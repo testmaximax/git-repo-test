@@ -1,7 +1,7 @@
 fdgdfTochkaVhoda(argumenti)
 {
 	sout("Helo Git!");
-	sout("Hr r u?");
+	sout("Hr r u?!")
 
 	
 }
